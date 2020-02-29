@@ -1,7 +1,8 @@
 # LocustsBuhl2006
 Simulation of Model in "From Disorder to Order in Marching Locusts" Buhl et al. Science 2006
 
-Simulate Vicksek model of locust movement. Created for MCSB Journal Club, Feb 2020.
+Simulate Vicksek model of locust movement. Created for MCSB Journal Club, Feb 2020. Google Colab notebook here:
+https://colab.research.google.com/drive/1PBdOjsyzbjjvbsmyPFfo5rcFh46XwB6s
 
 Add animation of moving locusts, to show how locusts respond to their neighbors in the model.
 
